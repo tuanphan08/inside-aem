@@ -2,7 +2,7 @@ version: 1
 
 sitemaps:
   blog:
-    origin: https://main--inside-aem--adobe.hlx.live/
+    origin: https://main--inside-aem--tuanphan08.hlx.live/
     lastmod: YYYY-MM-DD
     languages:
       en:
